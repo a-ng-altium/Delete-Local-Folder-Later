@@ -36,7 +36,10 @@ ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=9C9C492E-50CA-442C-ACC4-1555E76A7D32
+VaultGUID=DC04895E-27F0-4870-9B46-15063592F61D
+ReleaseVaultName=Test Examples
+ItemGUID=9C9C492E-50CA-442C-ACC4-1555E76A7D32
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -745,6 +748,7 @@ Type155=1
 Type156=1
 Type157=1
 Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -833,6 +837,7 @@ Type83=1
 Type84=1
 Type85=1
 Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -996,6 +1001,8 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
